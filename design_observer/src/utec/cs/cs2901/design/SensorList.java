@@ -1,6 +1,7 @@
 package utec.cs.cs2901.design;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Random;
 
 public class SensorList {
     private List<MetStation> sensorList=new ArrayList<MetStation>();
@@ -11,8 +12,9 @@ public class SensorList {
         state = 0;
     }
 
-    public void setState(int new_state) {
-        state = new_state;
+    private void setState(int new_state) {
+        Random rand=new Random();
+        state = rand.nextInt(50);
         notifyList();
     }
 
