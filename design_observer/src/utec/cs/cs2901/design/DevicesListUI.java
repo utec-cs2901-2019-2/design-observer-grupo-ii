@@ -5,6 +5,6 @@ public class DevicesListUI extends MetStation{
 
     }
     public void update(){
-
+        System.out.println("Se actualizo SensorListUI");
     }
 }

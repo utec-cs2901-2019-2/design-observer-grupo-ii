@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a13d413f-f3c5-49be-b5ee-0e66079f44e4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/design_observer/src/utec/cs/cs2901/design/DevicesListUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_observer/src/utec/cs/cs2901/design/DevicesListUI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/design_observer/src/utec/cs/cs2901/design/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_observer/src/utec/cs/cs2901/design/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_observer/src/utec/cs/cs2901/design/MetStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_observer/src/utec/cs/cs2901/design/MetStation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/design_observer/src/utec/cs/cs2901/design/Sensor.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_observer/src/utec/cs/cs2901/design/Sensor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/design_observer/src/utec/cs/cs2901/design/SensorList.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_observer/src/utec/cs/cs2901/design/SensorList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/design_observer/src/utec/cs/cs2901/design/SensorListUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_observer/src/utec/cs/cs2901/design/SensorListUI.java" afterDir="false" />
@@ -47,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569605136190</updated>
-      <workItem from="1569605138290" duration="833000" />
+      <workItem from="1569605138290" duration="1478000" />
     </task>
     <servers />
   </component>
