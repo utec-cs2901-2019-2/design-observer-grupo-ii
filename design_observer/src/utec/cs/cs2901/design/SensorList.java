@@ -5,7 +5,7 @@ import java.util.List;
 public class SensorList {
     private List<MetStation> sensorList=new ArrayList<MetStation>();
 
-    int state;
+    private int state;
 
     public SensorList() {
         state = 0;
@@ -16,7 +16,7 @@ public class SensorList {
         notifyList();
     }
 
-    public int getState(int new_state) {}
+    public int getState(int new_state) {
         return state;
     }
 
