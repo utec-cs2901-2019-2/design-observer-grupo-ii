@@ -1,4 +1,9 @@
 package utec.cs.cs2901.design;
 
-public class SensorListUI {
+public class SensorListUI extends MetStation {
+    public SensorListUI(){
+    }
+    public void update(){
+
+    }
 }
